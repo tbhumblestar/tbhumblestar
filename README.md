@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+ <a href=https://horse-keyboard-0d4.notion.site/11f4779ae7db4c0e94cf7751ffd27e14?v=6216c8ba08fd4ee8a474850840e0a1c3 target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=Blog&logoColor=white"/></a>
+
 <!--
 **tbhumblestar/tbhumblestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
