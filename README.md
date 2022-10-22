@@ -29,8 +29,9 @@
 
 <div>
 <h2>Links</h2>
+
 <a href ="https://horse-keyboard-0d4.notion.site/11f4779ae7db4c0e94cf7751ffd27e14?v=6216c8ba08fd4ee8a474850840e0a1c3">
-<img src="https://img.shields.io/badge/Blog-black?style=flat-square&logo=Notion&logoColor=white"/></a> 
+<img src="https://img.shields.io/badge/기술 블로그-black?style=flat-square&logo=Notion&logoColor=white"/></a> 
 </div>
 
 
